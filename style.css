@@ -1,0 +1,16 @@
+div{
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+      
+}
+
+.menu{
+    background-color: aquamarine;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: 5px black;
+    padding: 10px;
+}
